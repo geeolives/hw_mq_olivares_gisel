@@ -2,21 +2,21 @@ body {
 	background-color: #ffc0cb;
 }
 
-@media (max-width: 675px) {
+@media (min-width: 675px) {
 	.facet_sidebar {
 		display: none;
 		background-color: lightblue;
 	}
 }
 
-@media (max-width: 999px) {
+@media (min-width: 999px) {
 	.facet_sidebar {
 		display: none;
 		background-color: lightgreen;
 	}
 }
 
-@media (max-width: 1280px) {
+@media (min-width: 1280px) {
 	.facet_sidebar {
 		display: none;
 		background-color: purple;
