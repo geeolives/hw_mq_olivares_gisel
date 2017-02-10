@@ -1,4 +1,5 @@
 body {
+<<<<<<< HEAD
 	background-color: orange;
 }
 
@@ -20,5 +21,14 @@ body {
 	.facet_sidebar {
 		display: none;
 		background-color: blue;
+=======
+	background-color: yellow;
+}
+
+@media (min-width: 715px) and (max-width: 960px){
+	.facet_sidebar {
+		display: none;
+		background-color: #ff3375;
+>>>>>>> combo
 	}
 }
