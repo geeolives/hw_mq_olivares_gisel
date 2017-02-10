@@ -1,24 +1,24 @@
 body {
-	background-color: #ffc0cb;
+	background-color: orange;
 }
 
-@media (max-width: 675px) {
+@media (max-width: 1080px) {
 	.facet_sidebar {
 		display: none;
-		background-color: lightblue;
+		background-color: yellow;
 	}
 }
 
-@media (max-width: 999px) {
+@media (max-width: 550px) {
 	.facet_sidebar {
 		display: none;
-		background-color: lightgreen;
+		background-color: red;
 	}
 }
 
-@media (max-width: 1280px) {
+@media (max-width: 400px) {
 	.facet_sidebar {
 		display: none;
-		background-color: purple;
+		background-color: blue;
 	}
 }
